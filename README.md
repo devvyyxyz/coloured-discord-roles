@@ -2,4 +2,7 @@
 
 | Name | Hex | Text |
 | ----------- | ----------- | ----------- | 
-| text | # | <span style="color:#000000">some *blue* text</span> |
+| text | # | [Blue](#) |
+
+
+Hi here is some text <span style="color: red">this is red</span>.
