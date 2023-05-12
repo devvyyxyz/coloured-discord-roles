@@ -2,4 +2,4 @@
 
 | Name | Hex | Text |
 | ----------- | ----------- | ----------- | 
-| text | description | shush |
+| text | # | <span style="color:#000000">some *blue* text</span> |
